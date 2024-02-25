@@ -68,7 +68,9 @@ export default function Header() {
 
                     {/* Button */}
                     <div className="flex flex-1 justify-end">
-                        <Button>Launch App</Button>
+                        <Link href="https://dgt-app.vercel.app/">
+                            <Button>Launch App</Button>
+                        </Link>
                     </div>
                 </div>
             </div>
