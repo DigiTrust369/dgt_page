@@ -26,8 +26,7 @@ export default function Banner() {
                                 Introducing Smart Vault Aggregator
                             </h1>
                             <p className="max-w-sm text-lg font-extralight leading-[35px] -tracking-[0.4px] md:text-sm xl:max-w-lg xl:text-xl">
-                                Your Gateway to Enhanced Investment in the
-                                Decentralized Finance Space.
+                                Unlock the power of communities. Make on-chain investment more accessible and efficient for everyone.
                             </p>
                         </div>
 
